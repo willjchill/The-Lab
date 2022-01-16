@@ -1,0 +1,27 @@
+{
+  "name": "code-assignments",
+  "version": "1.0.0",
+  "description": "Testing out a wide-range of full stack skills including JSON, Express, Node.JS, Vanilla JS, HTML, CSS, Git, and other technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willjchill/The-Lab.git"
+  },
+  "keywords": [
+    "lab",
+    "test",
+    "assignments"
+  ],
+  "author": "William Desueza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willjchill/The-Lab/issues"
+  },
+  "homepage": "https://github.com/willjchill/The-Lab#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
